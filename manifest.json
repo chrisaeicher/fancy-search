@@ -1,0 +1,13 @@
+{
+  "name": "Fancy Search",
+  "description": "Upgrade your searches. Easily integrate advanced search functions and automatically search for key terms among websites you define.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["contextMenus", "storage", "search"],
+  "icons": {
+    "16": "/images/fancy-search-16.png",
+    "32": "/images/fancy-search-32.png",
+    "48": "/images/fancy-search-48.png",
+    "128": "/images/fancy-search-128.png"
+  }
+}
